@@ -3,11 +3,11 @@ Final project for my Brain-Computer Interface class. We were supposed to make a 
 
 The 3D game had to have a player whose motion was determined by using two commands, left-right, forward-backwards or up-down. We also had to implement obstacles on the plane, so the player would have a harder time deciding which direction to choose. Lastly, I added coins along the plane so that the player could collect them and increase his/her score based on the amount collected. At the end, the screen would show the player if the game was a win or a lose.
 
-The game can be found in the Releases section, as the file was too big to be uploaded directly to the main branch.
+The game can be found in the **Releases** section, as the file was too big to be uploaded directly to the main branch.
 
-In order to control the game using the EEG signals, we needed to add LSL4Unity to our game. Then we needed to test the motor imagery example using generic signals from openViBE (classified data from Generic Oscillator). This was done prior to our final exam, where we connected the game to real EEG data from volunteers.
+In order to control the game using the EEG signals, we needed to add **LSL4Unity** to our game. Then we needed to test the motor imagery example using generic signals from openViBE (classified data from Generic Oscillator). This was done prior to our final exam, where we connected the game to real EEG data from volunteers.
 
-In order to connect the game to real EEG data, and get feedback in the form of player's movement within the game, we had to go through two phases of data refinement: calibration and testing phase.
+In order to connect the game to real EEG data, and get feedback in the form of player's movement within the game, we had to go through two phases of data refinement: **calibration** and **testing** **phase**.
 
 In the first phase we noted down the volunteer's EEG signals, and trained them. This is a crucial step, because the machine needs to be calibarated according to each individual person's EEG signals. Once we have finished training a student volunteer, we needed to train the spatial filter which allowed for feature extraction, based on which we trained the classifiers into two classes. In this phase, there is no feedback. 
 
