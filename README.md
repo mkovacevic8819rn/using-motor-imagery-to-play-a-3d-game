@@ -1,0 +1,2 @@
+# using-motor-imagery-to-play-a-3d-game
+Final project for my Brain-Computer Interface class. We were supposed to make a 3d game in Unity, and on our final exam we were to train the BCI using a volunteer's EEG signals so they could play the game using only their 'thoughts' and with no interference with the computer (e.g. using a keyboard). It was an honor and a privilege to work this semester with our more than amazing Professor, PhD Jelena Mladenovic. I have learnt so much and I can't wait to be in her other classes in future.  
